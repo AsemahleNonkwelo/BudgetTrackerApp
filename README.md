@@ -27,3 +27,18 @@ To run this project on your local machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/AsemahleNonkwelo/BudgetTrackerApp.git
+
+   Open the project in Android Studio
+Connect an Android device or use the built-in emulator
+Click Run
+Project Status
+
+This project is still in development. More features such as charts, category filters, and monthly budget planning will be added.
+
+Author
+
+Asemahle Nonkwelo
+
+GitHub: @AsemahleNonkwelo
+
+
