@@ -8,7 +8,7 @@
 
 ## 🎯 Purpose of the App
 
-SpendSmart was developed for the IMAD5112 Final Practical Assessment. Its goal is to allow users to:
+SpendSmart was developed to allow users to:
 - Log expenses across customizable categories.
 - Set minimum and maximum spending goals per category.
 - Visualize spending via graphs over selected periods.
